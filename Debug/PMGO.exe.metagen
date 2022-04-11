@@ -1,0 +1,47 @@
+  PMGO.AtraparPoke.resources - Embedded, ContainedInManifestFile, 
+  PMGO.BatallaGym.resources - Embedded, ContainedInManifestFile, 
+  PMGO.CambiarNombre.resources - Embedded, ContainedInManifestFile, 
+  PMGO.GO_Pokeform.resources - Embedded, ContainedInManifestFile, 
+  PMGO.ListaMyPoke.resources - Embedded, ContainedInManifestFile, 
+  PMGO.ListaObjetos.resources - Embedded, ContainedInManifestFile, 
+  PMGO.MapaPrincipal.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PMGO, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Messaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class PMGO.AtraparPoke: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(CPersonaje*, CPokemon*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PMGO.BatallaGym: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(CControlador*, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PMGO.CambiarNombre: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(CPokemon*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PMGO.ListaMyPoke: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(CPersonaje*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PMGO.ListaObjetos: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(CPersonaje*, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PMGO.MapaPrincipal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(CPersonaje*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PMGO.GO_Pokeform: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
