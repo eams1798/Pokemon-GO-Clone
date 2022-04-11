@@ -1,0 +1,520 @@
+﻿  AtraparPoke.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,21): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,51): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,51): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,31): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,31): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(217,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(217,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(218,24): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(218,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(219,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(220,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(223,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(232,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(257,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(257,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(283,1): error C2664: 'void CBolaAtrapar::girar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^,int)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(283,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.h(20,7): message : vea la declaración de 'CBolaAtrapar::girar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(287,1): error C2664: 'void CBolaAtrapar::dibujarEstatico(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(287,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.h(19,7): message : vea la declaración de 'CBolaAtrapar::dibujarEstatico'
+  BatallaGym.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,34): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,34): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,5): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,40): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,40): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(67,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(75,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(83,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(255,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(255,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(256,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(256,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(257,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(257,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(258,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(258,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(259,27): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(259,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(260,31): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(260,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(264,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(265,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(268,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(269,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(270,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(271,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(275,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(276,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(277,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(278,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(282,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(283,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(284,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(285,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(358,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(359,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(363,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(364,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(368,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(369,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(371,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(371,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+  BolaAtrapar.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.cpp(79,32): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.cpp(83,32): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.cpp(85,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  GO_Pokeform.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,34): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,34): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,5): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,40): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,40): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(67,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(75,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(83,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(255,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(255,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(256,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(256,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(257,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(257,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(258,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(258,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(259,27): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(259,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(260,31): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(260,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(264,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(265,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(268,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(269,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(270,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(271,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(275,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(276,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(277,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(278,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(282,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(283,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(284,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(285,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(358,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(359,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(363,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(364,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(368,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(369,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(371,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(371,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\CambiarNombre.h(97,49): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\CambiarNombre.h(97,34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(553,29): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(553,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(557,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(559,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(630,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(630,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(722,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(760,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(770,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(771,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(772,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(124,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(131,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(175,46): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(175,32): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,21): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,51): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,51): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,31): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,31): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(217,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(217,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(218,24): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(218,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(219,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(220,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(223,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(232,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(257,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(257,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(283,1): error C2664: 'void CBolaAtrapar::girar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^,int)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(283,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.h(20,7): message : vea la declaración de 'CBolaAtrapar::girar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(287,1): error C2664: 'void CBolaAtrapar::dibujarEstatico(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(287,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.h(19,7): message : vea la declaración de 'CBolaAtrapar::dibujarEstatico'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,9): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,26): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,26): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,9): error C2955: 'std::array': el uso de clase plantilla requiere una lista de argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,43): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,43): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,32): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,1): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,1): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,32): error C2955: 'std::array': el uso de clase plantilla requiere una lista de argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(121,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(121,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(124,24): error C2676: '[' binario: 'std::array' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(192,40): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(299,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(22,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(22,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(22,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(23,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(23,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(23,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(25,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(25,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(25,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(26,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(26,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(396,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(396,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(397,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(397,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(398,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(398,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(399,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(399,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(408,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(409,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(412,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(413,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(417,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(418,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(435,51): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::Windows::Forms::TextBox ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(435,34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(497,74): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(497,46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(509,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\GO_Pokeform.h(509,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+  ListaMyPoke.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\CambiarNombre.h(97,49): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\CambiarNombre.h(97,34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(553,29): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(553,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(557,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(559,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(630,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(630,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(722,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(760,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(770,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(771,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(772,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  ListaObjetos.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(124,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(131,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(175,46): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(175,32): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MapaPrincipal.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(27,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(28,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,37): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(29,37): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,34): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(30,34): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,5): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,40): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(54,40): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(67,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(75,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(83,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(255,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(255,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(256,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(256,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(257,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(257,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(258,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(258,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(259,27): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(259,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(260,31): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(260,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(264,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(265,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(268,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(269,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(270,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(271,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(275,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(276,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(277,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(278,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(282,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(283,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(284,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(285,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(358,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(359,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(363,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(364,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(368,49): error C2664: 'void CPokemon::dibujarEspalda(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(369,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(54,7): message : vea la declaración de 'CPokemon::dibujarEspalda'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(371,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BatallaGym.h(371,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\CambiarNombre.h(97,49): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\CambiarNombre.h(97,34): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,33): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(26,33): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(553,29): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(553,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(557,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(559,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(630,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(630,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(722,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(760,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(770,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(771,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaMyPoke.h(772,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(124,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(131,24): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(175,46): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\ListaObjetos.h(175,32): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,21): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,51): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(24,51): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,3): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,31): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(28,31): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(217,26): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(217,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(218,24): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(218,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(219,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(220,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(223,1): error C2582: La función 'operator =' no está disponible en 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(232,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(257,1): error C2664: 'void CPokemon::dibujar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(257,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Pokemon.h(53,7): message : vea la declaración de 'CPokemon::dibujar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(283,1): error C2664: 'void CBolaAtrapar::girar(System::Drawing::Graphics ^,System::Drawing::Bitmap ^,int)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(283,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.h(20,7): message : vea la declaración de 'CBolaAtrapar::girar'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(287,1): error C2664: 'void CBolaAtrapar::dibujarEstatico(System::Drawing::Graphics ^,System::Drawing::Bitmap ^)': el argumento 2 no puede convertirse de 'std::array' a 'System::Drawing::Bitmap ^'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\AtraparPoke.h(287,1): message : Uso del tipo no definido 'std::array'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437,7): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\BolaAtrapar.h(19,7): message : vea la declaración de 'CBolaAtrapar::dibujarEstatico'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,9): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,26): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,26): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,9): error C2955: 'std::array': el uso de clase plantilla requiere una lista de argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,43): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(31,43): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,32): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,1): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,1): message : el compilador reemplazará '^' por '*' para continuar con el análisis
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,32): error C2955: 'std::array': el uso de clase plantilla requiere una lista de argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(118,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(121,30): error C2976: 'std::array': no hay suficientes argumentos de plantilla
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(121,1): error C2027: uso del tipo 'std::array' sin definir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\include\utility(437): message : vea la declaración de 'std::array'
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(124,24): error C2676: '[' binario: 'std::array' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(192,40): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\MapaPrincipal.h(299,21): warning C4018: '<': no coinciden signed/unsigned
+  Objeto.cpp
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Objeto.cpp(6,31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\eams__000\Documents\Visual Studio 2017\PMGO\PMGO\Objeto.cpp(18,69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
